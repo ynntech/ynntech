@@ -1,5 +1,6 @@
 ### Yushi Nakaya
-Adansons Inc Co-Founder, Vice President and CTO //
+Adansons Inc Co-Founder, Vice President and CTO 
+<div>
 School of Engineering, Tohoku University.
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
