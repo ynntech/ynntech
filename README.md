@@ -1,5 +1,5 @@
-### [Yushi Nakaya http://nakaya.work]
-Adansons Inc Co-Founder, Vice President and CTO 
+### Yushi Nakaya  
+Adansons Inc Co-Founder, Vice President and CTO , About me -> http://nakaya.work
 <div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
