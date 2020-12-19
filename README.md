@@ -1,4 +1,4 @@
-### Yushi Nakaya
+### [Yushi Nakaya http://nakaya.work]
 Adansons Inc Co-Founder, Vice President and CTO 
 <div>
 
